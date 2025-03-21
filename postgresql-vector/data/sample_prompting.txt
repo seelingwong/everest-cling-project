@@ -1,0 +1,12 @@
+/**
+ * @file sample_prompting.js
+ * @description This file contains sample prompt for generating sample data using ChatGPT prompts.
+ */
+
+Please generate 5 data in json format for ecommerce sport shop for camping equirement with name, description, category, price. 
+
+Please generate 10 data in json format for ecommerce sport shop for xxx brand shoe with name, description, category, price. 
+
+Please generate 5 data in json format for ecommerce sport shop for jungle trekking with name, description, category, price. 
+
+Please generate 5 data in json format for ecommerce sport shop for MMA and Martial Arts with name, description, category, price. 

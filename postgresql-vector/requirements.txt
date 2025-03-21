@@ -1,0 +1,11 @@
+python-dotenv
+psycopg[binary]
+sqlalchemy
+pgvector
+openai
+
+spacy
+
+boto3
+botocore
+awscli

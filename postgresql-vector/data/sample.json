@@ -1,0 +1,1597 @@
+[
+    {
+        "name": "Ball",
+        "description": "A high-quality ball for various sports.",
+        "category": "Team Sports",
+        "price": 29.99
+    },
+    {
+        "name": "Yoga Mat",
+        "description": "Comfortable and non-slip yoga mat.",
+        "category": "Fitness",
+        "price": 19.99
+    },
+    {
+        "name": "Tent",
+        "description": "Durable tent for outdoor adventures.",
+        "category": "Outdoor",
+        "price": 99.99
+    },
+    {
+        "name": "Swim Goggles",
+        "description": "Anti-fog swim goggles for clear vision underwater.",
+        "category": "Water Sports",
+        "price": 14.99
+    },
+    {
+        "name": "Ski Jacket",
+        "description": "Warm and waterproof ski jacket.",
+        "category": "Winter Sports",
+        "price": 149.99
+    },
+    {
+        "name": "Dumbbells",
+        "description": "Set of adjustable dumbbells for strength training.",
+        "category": "Fitness",
+        "price": 49.99
+    },
+    {
+        "name": "Backpack",
+        "description": "Spacious backpack for hiking and travel.",
+        "category": "Outdoor",
+        "price": 39.99
+    },
+    {
+        "name": "Football",
+        "description": "Official size and weight football.",
+        "category": "Team Sports",
+        "price": 24.99
+    },
+    {
+        "name": "Kayak",
+        "description": "Lightweight and durable kayak for water adventures.",
+        "category": "Water Sports",
+        "price": 299.99
+    },
+    {
+        "name": "Snowboard",
+        "description": "High-performance snowboard for all skill levels.",
+        "category": "Winter Sports",
+        "price": 199.99
+    },
+    {
+        "name": "Resistance Bands",
+        "description": "Set of resistance bands for versatile workouts.",
+        "category": "Fitness",
+        "price": 14.99
+    },
+    {
+        "name": "Camping Stove",
+        "description": "Portable camping stove for outdoor cooking.",
+        "category": "Outdoor",
+        "price": 59.99
+    },
+    {
+        "name": "Basketball",
+        "description": "Durable basketball for indoor and outdoor use.",
+        "category": "Team Sports",
+        "price": 29.99
+    },
+    {
+        "name": "Snorkel Set",
+        "description": "Complete snorkel set with mask, fins, and snorkel.",
+        "category": "Water Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Ski Boots",
+        "description": "Comfortable and supportive ski boots.",
+        "category": "Winter Sports",
+        "price": 129.99
+    },
+    {
+        "name": "Treadmill",
+        "description": "High-quality treadmill for home workouts.",
+        "category": "Fitness",
+        "price": 499.99
+    },
+    {
+        "name": "Sleeping Bag",
+        "description": "Warm and lightweight sleeping bag for camping.",
+        "category": "Outdoor",
+        "price": 79.99
+    },
+    {
+        "name": "Soccer Ball",
+        "description": "Official size and weight soccer ball.",
+        "category": "Team Sports",
+        "price": 19.99
+    },
+    {
+        "name": "Paddleboard",
+        "description": "Inflatable paddleboard for water sports.",
+        "category": "Water Sports",
+        "price": 349.99
+    },
+    {
+        "name": "Ski Poles",
+        "description": "Lightweight and durable ski poles.",
+        "category": "Winter Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Elliptical Machine",
+        "description": "Smooth and quiet elliptical machine for cardio workouts.",
+        "category": "Fitness",
+        "price": 599.99
+    },
+    {
+        "name": "Hiking Boots",
+        "description": "Waterproof and comfortable hiking boots.",
+        "category": "Outdoor",
+        "price": 89.99
+    },
+    {
+        "name": "Volleyball",
+        "description": "Official size and weight volleyball.",
+        "category": "Team Sports",
+        "price": 24.99
+    },
+    {
+        "name": "Wetsuit",
+        "description": "Full-body wetsuit for water sports.",
+        "category": "Water Sports",
+        "price": 99.99
+    },
+    {
+        "name": "Ski Helmet",
+        "description": "Protective and comfortable ski helmet.",
+        "category": "Winter Sports",
+        "price": 79.99
+    },
+    {
+        "name": "Exercise Bike",
+        "description": "Stationary exercise bike for home workouts.",
+        "category": "Fitness",
+        "price": 299.99
+    },
+    {
+        "name": "Camping Chair",
+        "description": "Foldable and lightweight camping chair.",
+        "category": "Outdoor",
+        "price": 29.99
+    },
+    {
+        "name": "Baseball Glove",
+        "description": "High-quality baseball glove for all positions.",
+        "category": "Team Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Life Jacket",
+        "description": "Safety life jacket for water activities.",
+        "category": "Water Sports",
+        "price": 39.99
+    },
+    {
+        "name": "Ski Pants",
+        "description": "Waterproof and insulated ski pants.",
+        "category": "Winter Sports",
+        "price": 99.99
+    },
+    {
+        "name": "Rowing Machine",
+        "description": "Smooth and quiet rowing machine for full-body workouts.",
+        "category": "Fitness",
+        "price": 399.99
+    },
+    {
+        "name": "Hiking Backpack",
+        "description": "Spacious and comfortable hiking backpack.",
+        "category": "Outdoor",
+        "price": 59.99
+    },
+    {
+        "name": "Tennis Racket",
+        "description": "Lightweight and durable tennis racket.",
+        "category": "Team Sports",
+        "price": 79.99
+    },
+    {
+        "name": "Kayak Paddle",
+        "description": "Lightweight and durable kayak paddle.",
+        "category": "Water Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Ski Goggles",
+        "description": "Anti-fog and UV-protected ski goggles.",
+        "category": "Winter Sports",
+        "price": 59.99
+    },
+    {
+        "name": "Jump Rope",
+        "description": "Adjustable jump rope for cardio workouts.",
+        "category": "Fitness",
+        "price": 9.99
+    },
+    {
+        "name": "Camping Lantern",
+        "description": "Bright and long-lasting camping lantern.",
+        "category": "Outdoor",
+        "price": 19.99
+    },
+    {
+        "name": "Basketball Hoop",
+        "description": "Adjustable basketball hoop for indoor and outdoor use.",
+        "category": "Team Sports",
+        "price": 199.99
+    },
+    {
+        "name": "Surfboard",
+        "description": "High-performance surfboard for all skill levels.",
+        "category": "Water Sports",
+        "price": 299.99
+    },
+    {
+        "name": "Ski Gloves",
+        "description": "Warm and waterproof ski gloves.",
+        "category": "Winter Sports",
+        "price": 39.99
+    },
+    {
+        "name": "Weight Bench",
+        "description": "Adjustable weight bench for strength training.",
+        "category": "Fitness",
+        "price": 149.99
+    },
+    {
+        "name": "Camping Tent",
+        "description": "Spacious and durable camping tent.",
+        "category": "Outdoor",
+        "price": 129.99
+    },
+    {
+        "name": "Soccer Cleats",
+        "description": "Comfortable and durable soccer cleats.",
+        "category": "Team Sports",
+        "price": 59.99
+    },
+    {
+        "name": "Snorkel Mask",
+        "description": "Full-face snorkel mask for clear underwater vision.",
+        "category": "Water Sports",
+        "price": 29.99
+    },
+    {
+        "name": "Ski Socks",
+        "description": "Warm and comfortable ski socks.",
+        "category": "Winter Sports",
+        "price": 14.99
+    },
+    {
+        "name": "Pull-Up Bar",
+        "description": "Sturdy pull-up bar for upper body workouts.",
+        "category": "Fitness",
+        "price": 39.99
+    },
+    {
+        "name": "Camping Cooler",
+        "description": "Insulated cooler for keeping food and drinks cold.",
+        "category": "Outdoor",
+        "price": 49.99
+    },
+    {
+        "name": "Baseball Bat",
+        "description": "High-quality baseball bat for all skill levels.",
+        "category": "Team Sports",
+        "price": 79.99
+    },
+    {
+        "name": "Kayak Seat",
+        "description": "Comfortable and adjustable kayak seat.",
+        "category": "Water Sports",
+        "price": 29.99
+    },
+    {
+        "name": "Ski Bag",
+        "description": "Durable and spacious ski bag.",
+        "category": "Winter Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Foam Roller",
+        "description": "High-density foam roller for muscle recovery.",
+        "category": "Fitness",
+        "price": 24.99
+    },
+    {
+        "name": "Camping Hammock",
+        "description": "Lightweight and portable camping hammock.",
+        "category": "Outdoor",
+        "price": 29.99
+    },
+    {
+        "name": "Tennis Balls",
+        "description": "Pack of 3 high-quality tennis balls.",
+        "category": "Team Sports",
+        "price": 9.99
+    },
+    {
+        "name": "Waterproof Bag",
+        "description": "Waterproof bag for keeping gear dry.",
+        "category": "Water Sports",
+        "price": 19.99
+    },
+    {
+        "name": "Ski Wax",
+        "description": "High-performance ski wax for all snow conditions.",
+        "category": "Winter Sports",
+        "price": 14.99
+    },
+    {
+        "name": "Kettlebell",
+        "description": "Cast iron kettlebell for strength training.",
+        "category": "Fitness",
+        "price": 34.99
+    },
+    {
+        "name": "Camping Table",
+        "description": "Foldable and lightweight camping table.",
+        "category": "Outdoor",
+        "price": 39.99
+    },
+    {
+        "name": "Soccer Goal",
+        "description": "Portable soccer goal for practice and games.",
+        "category": "Team Sports",
+        "price": 99.99
+    },
+    {
+        "name": "Diving Fins",
+        "description": "Comfortable and efficient diving fins.",
+        "category": "Water Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Ski Carrier",
+        "description": "Convenient ski carrier for easy transport.",
+        "category": "Winter Sports",
+        "price": 19.99
+    },
+    {
+        "name": "Ab Roller",
+        "description": "Effective ab roller for core workouts.",
+        "category": "Fitness",
+        "price": 19.99
+    },
+    {
+        "name": "Camping Cot",
+        "description": "Comfortable and portable camping cot.",
+        "category": "Outdoor",
+        "price": 59.99
+    },
+    {
+        "name": "Basketball Net",
+        "description": "Durable basketball net for hoops.",
+        "category": "Team Sports",
+        "price": 9.99
+    },
+    {
+        "name": "Swim Cap",
+        "description": "Comfortable and durable swim cap.",
+        "category": "Water Sports",
+        "price": 9.99
+    },
+    {
+        "name": "Ski Lock",
+        "description": "Secure ski lock for theft prevention.",
+        "category": "Winter Sports",
+        "price": 14.99
+    },
+    {
+        "name": "Resistance Bands",
+        "description": "Set of resistance bands for versatile workouts.",
+        "category": "Fitness",
+        "price": 14.99
+    },
+    {
+        "name": "Camping Stove",
+        "description": "Portable camping stove for outdoor cooking.",
+        "category": "Outdoor",
+        "price": 59.99
+    },
+    {
+        "name": "Basketball",
+        "description": "Durable basketball for indoor and outdoor use.",
+        "category": "Team Sports",
+        "price": 29.99
+    },
+    {
+        "name": "Snorkel Set",
+        "description": "Complete snorkel set with mask, fins, and snorkel.",
+        "category": "Water Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Ski Boots",
+        "description": "Comfortable and supportive ski boots.",
+        "category": "Winter Sports",
+        "price": 129.99
+    },
+    {
+        "name": "Treadmill",
+        "description": "High-quality treadmill for home workouts.",
+        "category": "Fitness",
+        "price": 499.99
+    },
+    {
+        "name": "Sleeping Bag",
+        "description": "Warm and lightweight sleeping bag for camping.",
+        "category": "Outdoor",
+        "price": 79.99
+    },
+    {
+        "name": "Soccer Ball",
+        "description": "Official size and weight soccer ball.",
+        "category": "Team Sports",
+        "price": 19.99
+    },
+    {
+        "name": "Paddleboard",
+        "description": "Inflatable paddleboard for water sports.",
+        "category": "Water Sports",
+        "price": 349.99
+    },
+    {
+        "name": "Ski Poles",
+        "description": "Lightweight and durable ski poles.",
+        "category": "Winter Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Elliptical Machine",
+        "description": "Smooth and quiet elliptical machine for cardio workouts.",
+        "category": "Fitness",
+        "price": 599.99
+    },
+    {
+        "name": "Hiking Boots",
+        "description": "Waterproof and comfortable hiking boots.",
+        "category": "Outdoor",
+        "price": 89.99
+    },
+    {
+        "name": "Volleyball",
+        "description": "Official size and weight volleyball.",
+        "category": "Team Sports",
+        "price": 24.99
+    },
+    {
+        "name": "Wetsuit",
+        "description": "Full-body wetsuit for water sports.",
+        "category": "Water Sports",
+        "price": 99.99
+    },
+    {
+        "name": "Ski Helmet",
+        "description": "Protective and comfortable ski helmet.",
+        "category": "Winter Sports",
+        "price": 79.99
+    },
+    {
+        "name": "Exercise Bike",
+        "description": "Stationary exercise bike for home workouts.",
+        "category": "Fitness",
+        "price": 299.99
+    },
+    {
+        "name": "Camping Chair",
+        "description": "Foldable and lightweight camping chair.",
+        "category": "Outdoor",
+        "price": 29.99
+    },
+    {
+        "name": "Baseball Glove",
+        "description": "High-quality baseball glove for all positions.",
+        "category": "Team Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Life Jacket",
+        "description": "Safety life jacket for water activities.",
+        "category": "Water Sports",
+        "price": 39.99
+    },
+    {
+        "name": "Ski Pants",
+        "description": "Waterproof and insulated ski pants.",
+        "category": "Winter Sports",
+        "price": 99.99
+    },
+    {
+        "name": "Rowing Machine",
+        "description": "Smooth and quiet rowing machine for full-body workouts.",
+        "category": "Fitness",
+        "price": 399.99
+    },
+    {
+        "name": "Hiking Backpack",
+        "description": "Spacious and comfortable hiking backpack.",
+        "category": "Outdoor",
+        "price": 59.99
+    },
+    {
+        "name": "Tennis Racket",
+        "description": "Lightweight and durable tennis racket.",
+        "category": "Team Sports",
+        "price": 79.99
+    },
+    {
+        "name": "Kayak Paddle",
+        "description": "Lightweight and durable kayak paddle.",
+        "category": "Water Sports",
+        "price": 49.99
+    },
+    {
+        "name": "Ski Goggles",
+        "description": "Anti-fog and UV-protected ski goggles.",
+        "category": "Winter Sports",
+        "price": 59.99
+    },
+    {
+        "name": "Jump Rope",
+        "description": "Adjustable jump rope for cardio workouts.",
+        "category": "Fitness",
+        "price": 9.99
+    },
+    {
+        "name": "Camping Lantern",
+        "description": "Bright and long-lasting camping lantern.",
+        "category": "Outdoor",
+        "price": 19.99
+    },
+    {
+        "name": "Basketball Hoop",
+        "description": "Adjustable basketball hoop for indoor and outdoor use.",
+        "category": "Team Sports",
+        "price": 199.99
+    },
+    {
+        "name": "Surfboard",
+        "description": "High-performance surfboard for all skill levels.",
+        "category": "Water Sports",
+        "price": 299.99
+    },
+    {
+        "name": "Ski Gloves",
+        "description": "Warm and waterproof ski gloves.",
+        "category": "Winter Sports",
+        "price": 39.99
+    },
+    {
+        "name": "Weight Bench",
+        "description": "Adjustable weight bench for strength training.",
+        "category": "Fitness",
+        "price": 149.99
+    },
+    {
+        "name": "Nike Air Zoom Pegasus 999",
+        "description": "Lightweight running shoes with responsive cushioning.",
+        "category": "Running Shoes",
+        "price": 129.99
+    },
+    {
+        "name": "Adidas Predator Elite FG",
+        "description": "High-performance soccer cleats with a precision strike zone.",
+        "category": "Soccer Cleats",
+        "price": 199.99
+    },
+    {
+        "name": "Wilson Evolution Basketball",
+        "description": "Official size indoor basketball with composite leather cover.",
+        "category": "Basketballs",
+        "price": 59.99
+    },
+    {
+        "name": "Under Armour Tech T-Shirt",
+        "description": "Moisture-wicking performance t-shirt for workouts.",
+        "category": "Clothing",
+        "price": 24.99
+    },
+    {
+        "name": "Yonex Nanoflare 700",
+        "description": "Lightweight badminton racket for fast-paced gameplay.",
+        "category": "Badminton Rackets",
+        "price": 139.99
+    },
+    {
+        "name": "Spalding NBA Official Game Ball",
+        "description": "NBA official game basketball with premium leather grip.",
+        "category": "Basketballs",
+        "price": 169.99
+    },
+    {
+        "name": "Garmin Forerunner 955",
+        "description": "GPS running smartwatch with advanced performance tracking.",
+        "category": "Wearables",
+        "price": 499.99
+    },
+    {
+        "name": "Puma Future Z 1.4",
+        "description": "Innovative soccer cleats with adaptive fit technology.",
+        "category": "Soccer Cleats",
+        "price": 179.99
+    },
+    {
+        "name": "Nike Pro Compression Shorts",
+        "description": "Performance compression shorts for intense workouts.",
+        "category": "Clothing",
+        "price": 34.99
+    },
+    {
+        "name": "Babolat Pure Aero Tennis Racket",
+        "description": "Spin-friendly tennis racket used by top pros.",
+        "category": "Tennis Rackets",
+        "price": 239.99
+    },
+    {
+        "name": "Product 11",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 20.0
+    },
+    {
+        "name": "Product 12",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 23.5
+    },
+    {
+        "name": "Product 13",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 27.0
+    },
+    {
+        "name": "Product 14",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 30.5
+    },
+    {
+        "name": "Product 15",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 34.0
+    },
+    {
+        "name": "Product 16",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 37.5
+    },
+    {
+        "name": "Product 17",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 41.0
+    },
+    {
+        "name": "Product 18",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 44.5
+    },
+    {
+        "name": "Product 19",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 48.0
+    },
+    {
+        "name": "Product 20",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 51.5
+    },
+    {
+        "name": "Product 21",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 55.0
+    },
+    {
+        "name": "Product 22",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 58.5
+    },
+    {
+        "name": "Product 23",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 62.0
+    },
+    {
+        "name": "Product 24",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 65.5
+    },
+    {
+        "name": "Product 25",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 69.0
+    },
+    {
+        "name": "Product 26",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 72.5
+    },
+    {
+        "name": "Product 27",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 76.0
+    },
+    {
+        "name": "Product 28",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 79.5
+    },
+    {
+        "name": "Product 29",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 83.0
+    },
+    {
+        "name": "Product 30",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 86.5
+    },
+    {
+        "name": "Product 31",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 90.0
+    },
+    {
+        "name": "Product 32",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 93.5
+    },
+    {
+        "name": "Product 33",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 97.0
+    },
+    {
+        "name": "Product 34",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 100.5
+    },
+    {
+        "name": "Product 35",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 104.0
+    },
+    {
+        "name": "Product 36",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 107.5
+    },
+    {
+        "name": "Product 37",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 111.0
+    },
+    {
+        "name": "Product 38",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 114.5
+    },
+    {
+        "name": "Product 39",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 118.0
+    },
+    {
+        "name": "Product 40",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 121.5
+    },
+    {
+        "name": "Product 41",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 125.0
+    },
+    {
+        "name": "Product 42",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 128.5
+    },
+    {
+        "name": "Product 43",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 132.0
+    },
+    {
+        "name": "Product 44",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 135.5
+    },
+    {
+        "name": "Product 45",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 139.0
+    },
+    {
+        "name": "Product 46",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 142.5
+    },
+    {
+        "name": "Product 47",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 146.0
+    },
+    {
+        "name": "Product 48",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 149.5
+    },
+    {
+        "name": "Product 49",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 153.0
+    },
+    {
+        "name": "Product 50",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 156.5
+    },
+    {
+        "name": "Product 51",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 160.0
+    },
+    {
+        "name": "Product 52",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 163.5
+    },
+    {
+        "name": "Product 53",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 167.0
+    },
+    {
+        "name": "Product 54",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 170.5
+    },
+    {
+        "name": "Product 55",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 174.0
+    },
+    {
+        "name": "Product 56",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 177.5
+    },
+    {
+        "name": "Product 57",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 181.0
+    },
+    {
+        "name": "Product 58",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 184.5
+    },
+    {
+        "name": "Product 59",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 188.0
+    },
+    {
+        "name": "Product 60",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 191.5
+    },
+    {
+        "name": "Product 61",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 195.0
+    },
+    {
+        "name": "Product 62",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 198.5
+    },
+    {
+        "name": "Product 63",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 202.0
+    },
+    {
+        "name": "Product 64",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 205.5
+    },
+    {
+        "name": "Product 65",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 209.0
+    },
+    {
+        "name": "Product 66",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 212.5
+    },
+    {
+        "name": "Product 67",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 216.0
+    },
+    {
+        "name": "Product 68",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 219.5
+    },
+    {
+        "name": "Product 69",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 223.0
+    },
+    {
+        "name": "Product 70",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 226.5
+    },
+    {
+        "name": "Product 71",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 230.0
+    },
+    {
+        "name": "Product 72",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 233.5
+    },
+    {
+        "name": "Product 73",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 237.0
+    },
+    {
+        "name": "Product 74",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 240.5
+    },
+    {
+        "name": "Product 75",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 244.0
+    },
+    {
+        "name": "Product 76",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 247.5
+    },
+    {
+        "name": "Product 77",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 251.0
+    },
+    {
+        "name": "Product 78",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 254.5
+    },
+    {
+        "name": "Product 79",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 258.0
+    },
+    {
+        "name": "Product 80",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 261.5
+    },
+    {
+        "name": "Product 81",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 265.0
+    },
+    {
+        "name": "Product 82",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 268.5
+    },
+    {
+        "name": "Product 83",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 272.0
+    },
+    {
+        "name": "Product 84",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 275.5
+    },
+    {
+        "name": "Product 85",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 279.0
+    },
+    {
+        "name": "Product 86",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 282.5
+    },
+    {
+        "name": "Product 87",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 286.0
+    },
+    {
+        "name": "Product 88",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 289.5
+    },
+    {
+        "name": "Product 89",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 293.0
+    },
+    {
+        "name": "Product 90",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 296.5
+    },
+    {
+        "name": "Product 91",
+        "description": "High-quality and durable for professional athletes.",
+        "category": "Running Shoes",
+        "price": 300.0
+    },
+    {
+        "name": "Product 92",
+        "description": "Designed for comfort and peak performance.",
+        "category": "Soccer Cleats",
+        "price": 303.5
+    },
+    {
+        "name": "Product 93",
+        "description": "Lightweight and breathable material.",
+        "category": "Basketballs",
+        "price": 307.0
+    },
+    {
+        "name": "Product 94",
+        "description": "Tested by top athletes for best results.",
+        "category": "Clothing",
+        "price": 310.5
+    },
+    {
+        "name": "Product 95",
+        "description": "Ideal for all levels of training.",
+        "category": "Badminton Rackets",
+        "price": 314.0
+    },
+    {
+        "name": "Product 96",
+        "description": "Premium build with latest technology.",
+        "category": "Wearables",
+        "price": 317.5
+    },
+    {
+        "name": "Product 97",
+        "description": "Ensures stability and flexibility during play.",
+        "category": "Tennis Rackets",
+        "price": 21.0
+    },
+    {
+        "name": "Product 98",
+        "description": "Built for endurance and long-lasting comfort.",
+        "category": "Cycling Gear",
+        "price": 24.5
+    },
+    {
+        "name": "Product 99",
+        "description": "Ergonomic design for enhanced grip and support.",
+        "category": "Hiking Boots",
+        "price": 28.0
+    },
+    {
+        "name": "Product 100",
+        "description": "Modern aesthetics with superior craftsmanship.",
+        "category": "Swimming Gear",
+        "price": 31.5
+    },{
+        "name": "Nike Air Zoom Pegasus 40",
+        "description": "Lightweight running shoes with responsive cushioning for long-distance comfort.",
+        "category": "Running Shoes",
+        "price": 129.99
+      },
+      {
+        "name": "Nike Mercurial Vapor 15 Elite",
+        "description": "High-speed soccer cleats designed for explosive acceleration and precision control.",
+        "category": "Soccer Cleats",
+        "price": 249.99
+      },
+      {
+        "name": "Nike Air Max 270",
+        "description": "Stylish sneakers with a large Air unit for all-day comfort and a modern look.",
+        "category": "Casual Shoes",
+        "price": 159.99
+      },
+      {
+        "name": "Nike Metcon 9",
+        "description": "Durable training shoes engineered for high-intensity workouts and weightlifting.",
+        "category": "Training Shoes",
+        "price": 139.99
+      },
+      {
+        "name": "Nike React Infinity Run 3",
+        "description": "Designed for smooth and stable running with React foam cushioning.",
+        "category": "Running Shoes",
+        "price": 169.99
+      },
+      {
+        "name": "Nike Zoom Freak 5",
+        "description": "Basketball shoes inspired by Giannis Antetokounmpo, built for agility and support.",
+        "category": "Basketball Shoes",
+        "price": 149.99
+      },
+      {
+        "name": "Nike Court Vision Low",
+        "description": "Classic basketball-inspired sneakers with retro styling and durable construction.",
+        "category": "Casual Shoes",
+        "price": 84.99
+      },
+      {
+        "name": "Nike Tiempo Legend 10 Elite",
+        "description": "Premium soccer cleats crafted with FlyTouch Plus leather for an adaptive fit.",
+        "category": "Soccer Cleats",
+        "price": 229.99
+      },
+      {
+        "name": "Nike Wildhorse 8",
+        "description": "Trail running shoes designed for rugged terrain with strong grip and stability.",
+        "category": "Trail Running Shoes",
+        "price": 139.99
+      },
+      {
+        "name": "Nike Dunk Low Retro",
+        "description": "Iconic skateboarding and lifestyle sneakers with a timeless design.",
+        "category": "Casual Shoes",
+        "price": 119.99
+      },
+      {
+        "name": "Coleman Sundome 4-Person Tent",
+        "description": "Durable and weather-resistant tent with easy setup and great ventilation.",
+        "category": "Camping Tents",
+        "price": 99.99
+      },
+      {
+        "name": "Therm-a-Rest MondoKing 3D Sleeping Pad",
+        "description": "Extra-thick foam sleeping pad for superior comfort and insulation.",
+        "category": "Sleeping Gear",
+        "price": 209.99
+      },
+      {
+        "name": "Jetboil Flash Camping Stove",
+        "description": "Compact and efficient cooking system with rapid boiling technology.",
+        "category": "Camping Stoves",
+        "price": 114.99
+      },
+      {
+        "name": "Osprey Atmos AG 65 Backpack",
+        "description": "Lightweight, ergonomic backpack with anti-gravity suspension for long hikes.",
+        "category": "Backpacks",
+        "price": 299.99
+      },
+      {
+        "name": "Black Diamond Spot 400 Headlamp",
+        "description": "Bright and waterproof headlamp with multiple lighting modes for outdoor adventures.",
+        "category": "Camping Accessories",
+        "price": 49.99
+      },
+      {
+        "name": "Salomon Quest 4 GTX Hiking Boots",
+        "description": "Durable and waterproof trekking boots designed for rough jungle terrain.",
+        "category": "Hiking Boots",
+        "price": 229.99
+      },
+      {
+        "name": "Osprey Aether 70L Backpack",
+        "description": "Spacious and comfortable backpack with adjustable fit for multi-day jungle treks.",
+        "category": "Backpacks",
+        "price": 289.99
+      },
+      {
+        "name": "LE LED Headlamp 1000 Lumens",
+        "description": "High-powered, waterproof headlamp for night trekking and survival situations.",
+        "category": "Camping Accessories",
+        "price": 39.99
+      },
+      {
+        "name": "LifeStraw Personal Water Filter",
+        "description": "Portable water filter that removes bacteria and parasites, essential for jungle trekking.",
+        "category": "Survival Gear",
+        "price": 19.99
+      },
+      {
+        "name": "Columbia Silver Ridge Convertible Pants",
+        "description": "Lightweight, moisture-wicking trekking pants that convert into shorts.",
+        "category": "Clothing",
+        "price": 64.99
+      },
+      {
+        "name": "Yonex Astrox 99 Pro",
+        "description": "High-performance badminton racket designed for aggressive smashes and control.",
+        "category": "Badminton Rackets",
+        "price": 239.99
+      },
+      {
+        "name": "Li-Ning Turbocharging 75",
+        "description": "Lightweight and aerodynamic racket for speed and power.",
+        "category": "Badminton Rackets",
+        "price": 189.99
+      },
+      {
+        "name": "Yonex Aerosensa 50 Shuttlecocks",
+        "description": "Premium feather shuttlecocks used in professional tournaments.",
+        "category": "Shuttlecocks",
+        "price": 49.99
+      },
+      {
+        "name": "Victor BR9602 Badminton Bag",
+        "description": "Spacious and stylish badminton bag with multiple compartments.",
+        "category": "Badminton Accessories",
+        "price": 79.99
+      },
+      {
+        "name": "Yonex Power Cushion 65 Z3",
+        "description": "Comfortable and responsive badminton shoes for superior grip and support.",
+        "category": "Badminton Shoes",
+        "price": 139.99
+      },
+      {
+        "name": "Venum Elite Boxing Gloves",
+        "description": "Premium synthetic leather gloves with triple-density foam for superior shock absorption.",
+        "category": "Boxing Gloves",
+        "price": 89.99
+      },
+      {
+        "name": "Fairtex Thai Kick Pads",
+        "description": "Durable and lightweight kick pads designed for Muay Thai and MMA training.",
+        "category": "Training Equipment",
+        "price": 159.99
+      },
+      {
+        "name": "Hayabusa T3 MMA Shin Guards",
+        "description": "Ergonomic shin guards with multi-layer padding for enhanced protection and mobility.",
+        "category": "Protective Gear",
+        "price": 129.99
+      },
+      {
+        "name": "Sanabul Essential MMA Shorts",
+        "description": "Lightweight and durable fight shorts with reinforced stitching for grappling and striking.",
+        "category": "Clothing",
+        "price": 39.99
+      },
+      {
+        "name": "Tatami Nova BJJ Gi",
+        "description": "High-quality Brazilian Jiu-Jitsu Gi with a strong yet comfortable fabric blend.",
+        "category": "Martial Arts Apparel",
+        "price": 99.99
+      },
+      {
+        "name": "RDX Weight Lifting Belt",
+        "description": "Heavy-duty leather belt with padded lumbar support for powerlifting and strength training.",
+        "category": "Weightlifting Gear",
+        "price": 49.99
+      },
+      {
+        "name": "Rogue Fitness Kettlebell",
+        "description": "Cast iron kettlebell with a wide handle for a secure grip during kettlebell swings.",
+        "category": "Kettlebells",
+        "price": 39.99
+      },
+      {
+        "name": "TRX All-In-One Suspension Trainer",
+        "description": "Portable suspension trainer for full-body workouts at home or on the go.",
+        "category": "Suspension Training",
+        "price": 149.99
+      },
+      {
+        "name": "Concept2 Model D Indoor Rowing Machine",
+        "description": "Commercial-grade rowing machine with air resistance for a challenging cardio workout.",
+        "category": "Rowing Machines",
+        "price": 900.00
+      },
+      {
+        "name": "Rogue Fitness Medicine Ball",
+        "description": "Durable rubber medicine ball for strength and conditioning exercises.",
+        "category": "Medicine Balls",
+        "price": 49.99
+      },
+      {
+        "name": "Nike Air Zoom Pegasus 40",
+        "description": "Lightweight running shoes with responsive cushioning for long-distance comfort.",
+        "category": "Running Shoes",
+        "price": 129.99
+      },
+      {
+        "name": "Nike Mercurial Vapor 15 Elite",
+        "description": "High-speed soccer cleats designed for explosive acceleration and precision control.",
+        "category": "Soccer Cleats",
+        "price": 249.99
+      },
+      {
+        "name": "Nike Air Max 270",
+        "description": "Stylish sneakers with a large Air unit for all-day comfort and a modern look.",
+        "category": "Casual Shoes",
+        "price": 159.99
+      },
+      {
+        "name": "Nike Metcon 9",
+        "description": "Durable training shoes engineered for high-intensity workouts and weightlifting.",
+        "category": "Training Shoes",
+        "price": 139.99
+      },
+      {
+        "name": "Nike React Infinity Run 3",
+        "description": "Designed for smooth and stable running with React foam cushioning.",
+        "category": "Running Shoes",
+        "price": 169.99
+      },
+      {
+        "name": "Adidas Ultraboost Light",
+        "description": "High-performance running shoes with responsive Boost cushioning for ultimate comfort.",
+        "category": "Running Shoes",
+        "price": 189.99
+      },
+      {
+        "name": "Adidas Predator Accuracy+ FG",
+        "description": "Elite soccer cleats designed for precision and power on the field.",
+        "category": "Soccer Cleats",
+        "price": 279.99
+      },
+      {
+        "name": "Adidas NMD_R1",
+        "description": "Stylish and comfortable sneakers featuring a soft knit upper and responsive cushioning.",
+        "category": "Casual Shoes",
+        "price": 149.99
+      },
+      {
+        "name": "Adidas Harden Vol. 7",
+        "description": "Signature basketball shoes built for speed, agility, and superior grip.",
+        "category": "Basketball Shoes",
+        "price": 159.99
+      },
+      {
+        "name": "Adidas Terrex Swift R3 GTX",
+        "description": "Waterproof hiking shoes with a rugged outsole for maximum traction.",
+        "category": "Hiking Shoes",
+        "price": 179.99
+      },
+      {
+        "name": "Adidas Copa Mundial",
+        "description": "Classic leather soccer cleats known for durability and comfort.",
+        "category": "Soccer Cleats",
+        "price": 129.99
+      },
+      {
+        "name": "Adidas Forum Low",
+        "description": "Retro basketball-inspired sneakers with a timeless design.",
+        "category": "Casual Shoes",
+        "price": 109.99
+      },
+      {
+        "name": "Adidas Adizero Boston 11",
+        "description": "Lightweight running shoes engineered for long-distance performance.",
+        "category": "Running Shoes",
+        "price": 159.99
+      },
+      {
+        "name": "Adidas Dame 8",
+        "description": "Damian Lillard’s signature basketball shoes designed for explosive play.",
+        "category": "Basketball Shoes",
+        "price": 139.99
+      },
+      {
+        "name": "Adidas Terrex Free Hiker 2",
+        "description": "Comfortable hiking shoes with Boost cushioning for all-terrain adventures.",
+        "category": "Hiking Shoes",
+        "price": 199.99
+      },
+      {
+        "name": "Puma Deviate Nitro 2",
+        "description": "High-performance running shoes with advanced Nitro foam cushioning for responsiveness.",
+        "category": "Running Shoes",
+        "price": 159.99
+      },
+      {
+        "name": "Puma Future Z 1.4 FG/AG",
+        "description": "Revolutionary soccer cleats with adaptive fit technology for precision control.",
+        "category": "Soccer Cleats",
+        "price": 199.99
+      },
+      {
+        "name": "Puma RS-X Reinvention",
+        "description": "Futuristic and stylish sneakers with a bulky design for everyday wear.",
+        "category": "Casual Shoes",
+        "price": 119.99
+      },
+      {
+        "name": "Puma Clyde Hardwood",
+        "description": "Classic basketball shoes with modern performance enhancements.",
+        "category": "Basketball Shoes",
+        "price": 129.99
+      },
+      {
+        "name": "Puma Velocity Nitro 2",
+        "description": "Lightweight and cushioned running shoes for long-distance comfort.",
+        "category": "Running Shoes",
+        "price": 139.99
+      },
+      {
+        "name": "Puma King Platinum FG",
+        "description": "Premium leather soccer cleats designed for touch and agility.",
+        "category": "Soccer Cleats",
+        "price": 179.99
+      },
+      {
+        "name": "Puma Cali Dream",
+        "description": "Trendy lifestyle sneakers with a thick sole and comfortable fit.",
+        "category": "Casual Shoes",
+        "price": 99.99
+      },
+      {
+        "name": "Puma MB.02 Basketball Shoes",
+        "description": "Signature LaMelo Ball basketball shoes with superior traction and grip.",
+        "category": "Basketball Shoes",
+        "price": 149.99
+      },
+      {
+        "name": "Puma Magnify Nitro",
+        "description": "Maximum cushioned running shoes for endurance training and comfort.",
+        "category": "Running Shoes",
+        "price": 149.99
+      },
+      {
+        "name": "Puma TRC Blaze Court",
+        "description": "High-performance indoor court shoes for agility and support.",
+        "category": "Basketball Shoes",
+        "price": 129.99
+      },
+      {
+        "name": "Speedo Vanquisher 2.0 Goggles",
+        "description": "Anti-fog, UV-protected swimming goggles with a comfortable fit for competitive swimmers.",
+        "category": "Swim Goggles",
+        "price": 24.99
+      },
+      {
+        "name": "TYR Catalyst Stroke Paddles",
+        "description": "Ergonomic training paddles designed to improve stroke technique and strength.",
+        "category": "Training Equipment",
+        "price": 29.99
+      },
+      {
+        "name": "Arena Powerfin Pro Swim Fins",
+        "description": "Short blade swim fins for improving speed, leg strength, and technique.",
+        "category": "Swim Fins",
+        "price": 49.99
+      },
+      {
+        "name": "Speedo Team Kickboard",
+        "description": "Durable and lightweight kickboard for swim training and endurance workouts.",
+        "category": "Training Equipment",
+        "price": 19.99
+      },
+      {
+        "name": "TYR Wrinkle-Free Silicone Swim Cap",
+        "description": "Durable and comfortable swim cap designed for hydrodynamic performance.",
+        "category": "Swim Caps",
+        "price": 12.99
+      },
+      {
+        "name": "FINIS Freestyle Snorkel",
+        "description": "Center-mount snorkel that allows swimmers to focus on technique without head rotation.",
+        "category": "Training Equipment",
+        "price": 39.99
+      },
+      {
+        "name": "Arena Cobra Ultra Swipe Goggles",
+        "description": "Elite racing goggles with anti-fog technology and low-profile design.",
+        "category": "Swim Goggles",
+        "price": 64.99
+      },
+      {
+        "name": "Speedo Biofuse Swim Training Fins",
+        "description": "Comfortable swim fins designed for enhanced propulsion and training.",
+        "category": "Swim Fins",
+        "price": 44.99
+      },
+      {
+        "name": "TYR Alliance Team Swim Bag",
+        "description": "Spacious and durable backpack designed to carry all swimming gear.",
+        "category": "Swim Bags",
+        "price": 59.99
+      },
+      {
+        "name": "Speedo Hydrospex Junior Goggles",
+        "description": "Comfortable and secure goggles designed for young swimmers.",
+        "category": "Swim Goggles",
+        "price": 18.99
+      }
+]
