@@ -9,8 +9,6 @@ doc = nlp(query)
 noun_chunks = [chunk.text for chunk in doc.noun_chunks]
 # nouns = [token.text for token in doc if token.pos_ in ["NOUN"]]
 
-# # Filtering: Remove adjectives and stopwords, keep key product-related nouns
-
 
 # Analyze syntax
 print("Noun phrases:", noun_chunks)
